@@ -1,0 +1,2 @@
+# Statikus-Api-GET
+házi
